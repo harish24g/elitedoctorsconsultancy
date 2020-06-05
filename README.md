@@ -19,8 +19,8 @@ Cloud firestore
 Firebase cloud functions and hosting
 
 ### Collaborators:
-Antony prince J              - https://github.com/CodeDecoder01
-Aathithya Sriram Ganesh      - https://github.com/aathi260
+Antony prince J              - https://github.com/CodeDecoder01 <br>
+Aathithya Sriram Ganesh      - https://github.com/aathi260   
 Hemapriya N                  - https://github.com/Nhemapriya
 Jagadiswaran D               - https://github.com/jagadhis
 
