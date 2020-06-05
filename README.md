@@ -20,7 +20,7 @@ Firebase cloud functions and hosting
 
 ### Collaborators:
 Antony prince J              - https://github.com/CodeDecoder01 <br>
-Aathithya Sriram Ganesh      - https://github.com/aathi260   
-Hemapriya N                  - https://github.com/Nhemapriya
-Jagadiswaran D               - https://github.com/jagadhis
+Aathithya Sriram Ganesh      - https://github.com/aathi260     <br>
+Hemapriya N                  - https://github.com/Nhemapriya    <br>
+Jagadiswaran D               - https://github.com/jagadhis      <br>
 
