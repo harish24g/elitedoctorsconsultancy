@@ -3,20 +3,20 @@
 Elite Doctors Consultancy is a consultancy firm that helps students who are willing to study medicine abroad.
 
 ### Website Frontend :
-Html5
-CSS
-Bootstrap
-Javascript
+Html5 <br>
+CSS <br>
+Bootstrap <br>
+Javascript <br>
 
 ### Website Backend:
-Node.js
-Express framework
+Node.js <br>
+Express framework <br>
 
 ### Database:
-Cloud firestore
+Cloud firestore <br>
 
 ### Hosting:
-Firebase cloud functions and hosting
+Firebase cloud functions and hosting <br>
 
 ### Collaborators:
 Antony prince J              - https://github.com/CodeDecoder01 <br>
